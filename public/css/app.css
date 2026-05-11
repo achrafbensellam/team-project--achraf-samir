@@ -4,7 +4,7 @@
 }
 /* welcome  */
 .TheBody{
-    background-image: url(./Images/backgroundimageproject.png);
+    background-image: url(../images/backgroundimageproject.png);
     background-size: cover;
     height: 100vh;
 }
@@ -46,12 +46,12 @@
 /* ! this is the main */
 /* !firstsection */
 .FirstSection{
-    margin-top: 150px;
-    margin-left: 120px;
+    margin-top: 260px;
+    margin-left: 155px;
 }
 .Title{
     color: rgb(52, 72, 134);
-    font-size: 60px;
+    font-size: 70px;
 }
 .DivParagraphFisrt{
     margin-top: 20px;
@@ -80,11 +80,11 @@
 /* todo section 2 */
 .SecondSectionDiv2{
     /* border: 1px solid black; */
-    width: 200px;
-    height: 250px;
+    width: 250px;
+    height: 280px;
 padding: 40px;
 border-radius: 5px;
-margin-right: 20px;
+margin-right: 60px;
 box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 .TitleSecondsec{
@@ -103,7 +103,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 .SecondSection{
     display: flex;
    justify-content: center;
-   margin-top: 200px;
+   margin-top: 300px;
 
 }
 .icon{
@@ -117,6 +117,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 .ParagraphThird{
     color: gray;
+    font-size: 20px;
 }
 .secondSectionParagraph1{
     color: rgb(49, 69, 132);
@@ -146,7 +147,7 @@ margin-bottom: 20px;
     background-color: rgb(244, 250, 254);
     border: none;
     padding: 10px;
-    width: 480px;
+    width: 570px;
     
 }
 .EmailInput::placeholder {
@@ -161,7 +162,7 @@ margin-bottom: 20px;
 .TextAreasecond{
     background-color: rgb(244, 250, 254);
     border: none;
-    width: 1000px;
+    width: 1170px;
     height: 100px;
     padding: 10px;
     margin-top: 20px;
