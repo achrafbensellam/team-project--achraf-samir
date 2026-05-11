@@ -12,6 +12,7 @@
 .navigationBar{
     display: flex;
     gap: 20px;
+    margin-top: 10px;
 }
 .links{
     text-decoration: none;
@@ -26,4 +27,47 @@
     border-radius: 5px;
     background-color: white;
     cursor: pointer;
+    font-size: large;
+    border-style: hidden;
 }
+.span{
+    border-bottom: 5px solid red;
+}
+/* ! this is the main */
+/* todo section 2 */
+.SecondSectionDiv2{
+    border: 1px solid black;
+    width: 200px;
+    height: 250px;
+padding: 40px;
+border-radius: 5px;
+
+}
+.secondSectionBTN{
+    padding: 10PX 30PX;
+    background-color: red;
+    border-radius: 20px;
+    border-style: hidden;
+    color: white;
+    margin-top:20px ;
+}
+.thirdSection{
+    display: flex;
+    /* gap: 30px; */
+   justify-content: center;
+   /* gap: 70px; */
+    /* align-items:; */
+}
+.icon{
+    margin-bottom: 20px;
+}
+.secondSectionParagraph{
+    color: rgb(49, 69, 132);
+    font-size: 40px;
+    padding-right: 130px;
+}
+.secondSectionParagraph1{
+    color: rgb(49, 69, 132);
+    font-size: 25px;
+margin-bottom: 20px;
+} 
