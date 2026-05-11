@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* welcome  */
+/* ! this is the header */
+.pageHead{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.navigationBar{
+    display: flex;
+    gap: 20px;
+}
+.links{
+    text-decoration: none;
+    color: blue;
+}
+.doob{
+    color: blue;
+}
+.btn{
+    color: red;
+    padding: 10px 70px;
+    border-radius: 5px;
+    background-color: white;
+    cursor: pointer;
+}
